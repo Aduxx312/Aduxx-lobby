@@ -1,0 +1,9 @@
+{
+  "id": "aduxx-lobby",
+  "name": "ADUXX-LOBBY",
+  "version": "${version}",
+  "main": "dev.aduxx.aDUXXLOBBY.ADUXXLOBBY",
+  "api-version": "3.4.0",
+  "authors": ["aduxx"],
+  "description": "Plugin na /lobby"
+}
